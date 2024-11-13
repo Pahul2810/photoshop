@@ -1,4 +1,4 @@
-### README: Creating a Travel Poster of London in Photoshop
+### README: Creating in Photoshop
 
 Welcome to this guide on creating an eye-catching travel poster of London using Adobe Photoshop. Follow these steps to create a stunning visual that captures the essence of this iconic city!
 
